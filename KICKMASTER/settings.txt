@@ -1,0 +1,1 @@
+{"sticker_count": 4, "sticker_con": false}
